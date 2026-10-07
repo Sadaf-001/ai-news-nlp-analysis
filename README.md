@@ -28,12 +28,10 @@ Final project for *Next-Gen NLP*, University of Chicago, March 2026.
 
 ## Repository structure
 ```
-notebooks/
-  01_data_cleaning_and_filtering.ipynb   # load, dedupe, length + relevance filtering
-  02_topics_entities_sentiment.ipynb     # NMF topics, NER, sentiment, plots
-presentation/
-  Final_Project.pptx
-  Final_Project_annotated.pdf
+01_data_cleaning_and_filtering.ipynb   # load, dedupe, length + relevance filtering
+02_topics_entities_sentiment.ipynb     # NMF topics, NER, sentiment, plots
+Final_Project.pptx                     # final presentation
+Final_Project_annotated.pdf            # annotated slides
 ```
 
 ## Data
